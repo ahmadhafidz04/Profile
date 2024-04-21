@@ -3,6 +3,11 @@
     padding: 0;
 	list-style-type: none;
 }
+
+html {
+	scroll-behavior: smooth;
+}
+
 body {
 	min-height: 2000px; 
 	/* SVG background */
