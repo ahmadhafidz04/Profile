@@ -24,19 +24,19 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <ul class="navbar-nav me-auto">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
+              <a class="nav-link active" aria-current="page" href="#jumbotron">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About</a>
+              <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Project</a>
+              <a class="nav-link" href="#projects">Project</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Experience</a>
+              <a class="nav-link" href="#experience">Experience</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Education</a>
+              <a class="nav-link" href="#education">Education</a>
             </li>
           </ul>
         </div>
@@ -44,7 +44,7 @@
     </nav>
     <!--Navbar Akhir-->
     <!-- HEADER SECTION START -->
-    <section class="jumbotron text-center">
+    <section id="jumbotron" class="jumbotron text-center">
       <img src="Hafidz.png" class="rounded-circle m-3" alt="Ahmad Hafidz" width="200" height="200">
       <h1 class="display-4 fw-bold">Ahmad Hafidz</h1>
       <p class="lead">Student | Web Developer</p>
