@@ -49,11 +49,9 @@
       <h1 class="display-4 fw-bold">Ahmad Hafidz</h1>
       <p class="lead">Student | Web Developer</p>
       <div class="social-icons">
-        <a href="#" class="social-icon"><i class="fab fa-facebook-f m-3"></i></a>
-        <a href="#" class="social-icon"><i class="fab fa-twitter m-3"></i></a>
         <a href="https://www.instagram.com/hfdzgdm_/" class="social-icon"><i class="fab fa-instagram m-3"></i></a>
         <a href="https://www.linkedin.com/in/ahfidz/" class="social-icon"><i class="fab fa-linkedin-in m-3"></i></a>
-        <a href="#" class="social-icon"><i class="fab fa-github m-3"></i></a>
+        <a href="https://github.com/ahmadhafidz04" class="social-icon"><i class="fab fa-github m-3"></i></a>
       </div>
     </section>
     <!-- HEADER SECTION END -->
