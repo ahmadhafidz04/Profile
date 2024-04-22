@@ -25,7 +25,13 @@ nav {
 	background-color: #090907;
 	color: #FFFFF2;
 	opacity: 0.95;
+	position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure it appears above other content */
+    background-color: #333;
 }
+
 
 /* FCCC00
 DEA001
